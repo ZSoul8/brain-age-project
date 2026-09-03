@@ -1,0 +1,9 @@
+check,passed,details
+cohort_ids_unique,True,n=458
+all_exclusions_have_reason,True,excluded=10
+sites_not_split,True,sites=20
+one_prediction_per_subject_model,True,rows=1374
+all_models_complete,True,models=3
+sex_recorded_for_all_participants,True,missing=0
+predictions_finite,True,"age_true, age_pred, BAG, absolute_error"
+negative_results_preserved,True,"Dummy, Ridge, MLP"

@@ -1,0 +1,23 @@
+# Ambiente Python e cache locali
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+
+# File temporanei e di sistema
+*.tmp
+*.tmp.*
+.DS_Store
+Thumbs.db
+
+# Dati ABIDE e file individuali: non pubblicare su GitHub
+data/raw/
+data/interim/
+data/processed/
+results/predictions/
+results/logs/
+results/final/*
+!results/final/manifest.json
+
+# Le tabelle aggregate, le figure e il manifest restano versionabili.

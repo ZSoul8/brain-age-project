@@ -1,0 +1,2 @@
+n_participants,n_sites,age_mean,age_std,age_median,age_min,age_max,sex_1_n,sex_1_percent,sex_2_n,sex_2_percent,sex_missing_n,timepoints_min,timepoints_median,timepoints_max,movement_mean_fd_available_n
+458,20,16.73289847161572,7.226745405989855,14.725,6.47,56.2,370,80.78602620087337,88,19.213973799126638,0,78,176.0,296,458

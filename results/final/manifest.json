@@ -1,0 +1,216 @@
+{
+  "created_at_utc": "2026-08-18T17:46:35.405618+00:00",
+  "status": "frozen",
+  "files": [
+    {
+      "path": "configuration\\cohort.csv",
+      "sha256": "86e4c419325da7d8b4a9b2c3ca565bdb3fb675eda275c65b8fad33a05cbee4ff",
+      "size_bytes": 42304
+    },
+    {
+      "path": "configuration\\exclusions.csv",
+      "sha256": "876321e2f65d8a0ddd31afcdc4a32bd9ed0e74cb11aacbdd6dfdeb873f0ca78c",
+      "size_bytes": 30783
+    },
+    {
+      "path": "configuration\\outer_fold_summary.csv",
+      "sha256": "f584ecc100bf961832aa152b8e43784f6fcdb3654c54bbcdb4c53a569fdf5580",
+      "size_bytes": 465
+    },
+    {
+      "path": "configuration\\outer_folds.csv",
+      "sha256": "9f0151f745920447bc6350177ac7476fd840c73c76c686da2849c3443af31bba",
+      "size_bytes": 14526
+    },
+    {
+      "path": "configuration\\requirements.txt",
+      "sha256": "3d0e4c0c57edeba43f40b231c84f39b1177b299be2c5857e7436033a0394fde9",
+      "size_bytes": 1214
+    },
+    {
+      "path": "configuration\\run_config.json",
+      "sha256": "7ffb5d1325ad9f492e43ad63ec3396fee2be87ced58cf582800505b15708c937",
+      "size_bytes": 355
+    },
+    {
+      "path": "configuration\\versions.txt",
+      "sha256": "71725bf3be6f08d57878ddc80b71c6d293d716e0693c6b895869ebce3a28c910",
+      "size_bytes": 1246
+    },
+    {
+      "path": "figures\\actual_vs_predicted.png",
+      "sha256": "a2ba576b46ca341301218d620fb68304a48b37b6c67f0464e824722b24f0956f",
+      "size_bytes": 488319
+    },
+    {
+      "path": "figures\\age_distribution.png",
+      "sha256": "6ae96316c3900d5ccebbbc0aa53d3b319a226c375b77589f54923c148aa00fed",
+      "size_bytes": 80476
+    },
+    {
+      "path": "figures\\bag_vs_age.png",
+      "sha256": "bc7c142edea5c3822aa2128e4b8f5f03518143c8dc00bb62ff474e8295ad3df9",
+      "size_bytes": 440382
+    },
+    {
+      "path": "figures\\cohort_flow.png",
+      "sha256": "8feeb0e31d38f753c5e471738361d576a98e263ceddab2d3b2bcc15d9f3cd130",
+      "size_bytes": 63198
+    },
+    {
+      "path": "figures\\mae_by_model.png",
+      "sha256": "99dcf619b370340b216e6e0efee8ffbd097d92ee29475e1d7b9280b70949e586",
+      "size_bytes": 68855
+    },
+    {
+      "path": "figures\\mae_by_site.png",
+      "sha256": "301e1384cb91a4f7a659ae5fe06ae986d68fba8a015dc4caeb41aeadd616fa19",
+      "size_bytes": 152257
+    },
+    {
+      "path": "logs\\decision_log.md",
+      "sha256": "3f4762bf10c1de3a7575a6966338491481f264cb5fef3a3f1904a9f7d1d07780",
+      "size_bytes": 716
+    },
+    {
+      "path": "logs\\dummy_median_fold_0.json",
+      "sha256": "a9cfc8232ead939fd63850f19a7df0fd9604a8a8be760941ad8975f7e82f86cf",
+      "size_bytes": 633
+    },
+    {
+      "path": "logs\\dummy_median_fold_1.json",
+      "sha256": "de36c404e80710916dd698516bf7a6a9a23daa9119de9edb97322939da0778df",
+      "size_bytes": 634
+    },
+    {
+      "path": "logs\\dummy_median_fold_2.json",
+      "sha256": "ff2bbadb77d0fd13794d85255182a6352e468bbd91f825317a86f4ce492dc539",
+      "size_bytes": 633
+    },
+    {
+      "path": "logs\\dummy_median_fold_3.json",
+      "sha256": "7c33bdaf40b1c1dfad0c641b9f44776fec7e2ea271154297f06b842195f7b8b9",
+      "size_bytes": 633
+    },
+    {
+      "path": "logs\\dummy_median_fold_4.json",
+      "sha256": "b8b80f58388a4555f29b3830113f443d0d3a91bb81212740234c8ff3e6527d0c",
+      "size_bytes": 633
+    },
+    {
+      "path": "logs\\mlp_fold_0.json",
+      "sha256": "5a1a23db4b2031f03733fd2f1dfece366c9feb911b1ce15a26f1bd497e1d7344",
+      "size_bytes": 1941
+    },
+    {
+      "path": "logs\\mlp_fold_1.json",
+      "sha256": "9787e2c291f1c452c4177490265c3604736af83f258c9c58730f549206736e4a",
+      "size_bytes": 1943
+    },
+    {
+      "path": "logs\\mlp_fold_2.json",
+      "sha256": "70b571ff3931637f919b84b211242096c03806e61f1e803a7492b5916774e3ec",
+      "size_bytes": 1942
+    },
+    {
+      "path": "logs\\mlp_fold_3.json",
+      "sha256": "03ad0eaa672e60cd9390c90b4659baae30a77869e952bc593b9bb2821056c758",
+      "size_bytes": 1945
+    },
+    {
+      "path": "logs\\mlp_fold_4.json",
+      "sha256": "9f7f8e6000a5ff46e4b0002e33bff56af3ec39a977133882e888e3241f6ed083",
+      "size_bytes": 1940
+    },
+    {
+      "path": "logs\\report_run.json",
+      "sha256": "70cd05a240bc74879b30cd9ff4ce7d3a95f3e500fc8190170208c52c86ff7f8f",
+      "size_bytes": 728
+    },
+    {
+      "path": "logs\\ridge_fold_0.json",
+      "sha256": "0e942925fb4fa8714dc5a0519108385aa537a61c848350d67af6acc5f9f43042",
+      "size_bytes": 2994
+    },
+    {
+      "path": "logs\\ridge_fold_1.json",
+      "sha256": "4d70617ea76e9f740c57257d37becb377e442703912128979f6dd5ffd4a1efa9",
+      "size_bytes": 2906
+    },
+    {
+      "path": "logs\\ridge_fold_2.json",
+      "sha256": "008eb10982d8c9090d8b758b340d0ea69100d8d4ce14ff6d24128324a30bad35",
+      "size_bytes": 2911
+    },
+    {
+      "path": "logs\\ridge_fold_3.json",
+      "sha256": "20ac09e578f32bc341517cdcb19a82783b6a10e7e36a4e3cfae4bebadb67d178",
+      "size_bytes": 2915
+    },
+    {
+      "path": "logs\\ridge_fold_4.json",
+      "sha256": "098314fa519c10a3e91724454bbe69d4eb51800bb4d2ce49f41a0e0220764b5a",
+      "size_bytes": 2908
+    },
+    {
+      "path": "predictions\\predictions.csv",
+      "sha256": "afd7f6f4e62cc4ee2dd0bf87da5895ae206b127b82ebda03cb4340d0b1c3bc09",
+      "size_bytes": 184539
+    },
+    {
+      "path": "tables\\age_histogram.csv",
+      "sha256": "264afc16bb016fc82e52da9a41601364ea8a1f9d9f4f922d79e21fef1a7de4a6",
+      "size_bytes": 384
+    },
+    {
+      "path": "tables\\bag_analysis.csv",
+      "sha256": "6b31c012dff4ca83e3f768d41ed6c44f313dc12431c0efb85f7848e94813dc29",
+      "size_bytes": 460
+    },
+    {
+      "path": "tables\\cohort_description.csv",
+      "sha256": "f78a322f3be2e5747d67236014f414ec6d043b0b18ea9e988555abf8854f2cca",
+      "size_bytes": 327
+    },
+    {
+      "path": "tables\\cohort_flow.csv",
+      "sha256": "3360136193829c8b53dd641de18887bf0efb413ced23fad5095c46b438e6f6c8",
+      "size_bytes": 55
+    },
+    {
+      "path": "tables\\metrics_by_age_band.csv",
+      "sha256": "7d0e9fb41a38bdb3fc143c9bbfda9b53733e38c06657b87754758bbcbfa16f30",
+      "size_bytes": 452
+    },
+    {
+      "path": "tables\\metrics_by_fold.csv",
+      "sha256": "c0524845a2ef618f2c7c0808a636b870595317001409cc2a7a461ffb16d47a50",
+      "size_bytes": 1529
+    },
+    {
+      "path": "tables\\metrics_by_sex.csv",
+      "sha256": "3d33533f249e74e09e0bd67b157e0e5c1a4c2f5de8431a82a91025b1caafbbef",
+      "size_bytes": 1196
+    },
+    {
+      "path": "tables\\metrics_by_site.csv",
+      "sha256": "53ec6314b8270f297480306837387959a136f9124bc67fe889f0ccf277bbf49d",
+      "size_bytes": 5527
+    },
+    {
+      "path": "tables\\metrics_overall.csv",
+      "sha256": "370ae97c239493ec6bd62d84b80e21bc2a6e8813ceea8ba4d3e1dc4d61bef8d7",
+      "size_bytes": 373
+    },
+    {
+      "path": "tables\\movement_error_association.csv",
+      "sha256": "e562ef07f70de1c6d9fcebc98da6fead5c9089b23d557e2be227be9be7560e93",
+      "size_bytes": 223
+    },
+    {
+      "path": "tables\\verification_checklist.csv",
+      "sha256": "0d62918a728abeeb95e667130123cd61580cd2027618a4136d890d08748c002b",
+      "size_bytes": 382
+    }
+  ]
+}

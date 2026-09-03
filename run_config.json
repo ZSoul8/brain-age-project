@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "dataset": "ABIDE_I_Preprocessed",
+  "pipeline": "cpac",
+  "derivative": "rois_cc200",
+  "controls_only": true,
+  "quality_checked": true,
+  "band_pass_filtering": true,
+  "global_signal_regression": false,
+  "outer_splits": 5,
+  "inner_splits": 3,
+  "primary_metric": "MAE",
+  "models": ["dummy_median", "ridge", "mlp"]
+}
